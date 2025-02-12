@@ -1,0 +1,20 @@
+{
+  "name": "Rivaldyalfi",
+  "short_name": "Rivaldyalfi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyjarRvaWhTcjFZHVDyU0blGy8iTLwaAuILKLzSQcliYlFuTUFSQQltYSrqApbeEWFh-rec45RXGE2pJvpsS1yyXvH1bYTu7Yt66RymSdNIFe4jgMy6yYv679vkxtZJQ0rPG4L8oqsmkBRR_c3fAG39x5jVtslgFeiMLoFWhm1Rm4Hhfq1IC3cqfz4zlRi/s1600/Untitled%20design%20%2815%29.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyl9Nv3A-ptIebrejEvy-F6LEs2ygSbgzabmg-z2eFPo7LG2IwTJaZeNvri-3s4VLwfPZCFNHRIjnVAH1qhO2KMnrYdsH6kUDKvyyPOJMM-bGCwYfQZ7CFDJzFoIXe4-kOvuRGEX_yLhBTeitN8S7JGbxXcWmWHLvLEySrVRGU8lfZF_FH5vjl1NK_l9yt/s1600/Untitled%20%28512%20x%20512%20px%29.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
