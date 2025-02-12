@@ -1,8 +1,8 @@
 const CACHE_NAME = "rivaldyalfi-cache-v1";
 const urlsToCache = [
-    "/",
-    "/index.html",
-    "/favicon.ico"
+    "https://www.rivaldyalfi.com",
+    "https://www.rivaldyalfi.com/index.html",
+    "https://www.rivaldyalfi.com/favicon.ico"
 ];
 
 self.addEventListener("install", function(event) {
